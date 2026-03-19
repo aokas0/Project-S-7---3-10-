@@ -1,4 +1,4 @@
-# Panel de Control - Anuncios de Venta de Coches 🚗
+# Panel de Control - Anuncios de Venta de Coches 
 
 Esta es una aplicación interactiva construida con Python y Streamlit, desarrollada como parte del Sprint 7 de Desarrollo de Software.
 
